@@ -1,9 +1,11 @@
-title: "Combinatorial Games & Puzzles"
+title: "Cascade Symmetry"
 description: "Weekly notes, schedules, and illustrations."
-theme: "just-the-docs"
 
-# Enables instant client-side search across all pages
-search_enabled: true
+# Replace "theme:" with these two lines:
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
 # Navigation settings
+search_enabled: true
 nav_sort: nav_order
