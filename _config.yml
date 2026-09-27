@@ -1,0 +1,9 @@
+title: "Combinatorial Games & Puzzles"
+description: "Weekly notes, schedules, and illustrations."
+theme: "just-the-docs"
+
+# Enables instant client-side search across all pages
+search_enabled: true
+
+# Navigation settings
+nav_sort: nav_order
