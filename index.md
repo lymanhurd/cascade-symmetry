@@ -10,6 +10,9 @@ Welcome.  This site contains weekly lecture notes for the Cascade 2026 class on 
 Lyman Hurd
 Glenn Hurd
 
+Website: https://symmetry.lymanslogicgames.com
+Email: cascade2026-symmetry-teachers@mit.edu
+
 ## Schedule Overview
 * **Week 1: What are symmetries?**
 We introduce pictures from art, architecture and geometry of symmetric students and we ask the students to try classifying those with the same symmetry without formally defining what that means.  We will then discuss the kinds of observations that lead us to associate one pattern with another, e.g., the type of rotational symmetries, or the existence of mirror symmetries.  If there is time at the end, we will show the students other objects that can be symmetrical such as Temari balls for spherical symmetry and 3-dimensional crystals. We will also show some simple fractals.  The goal of this lesson is to push the idea that a symmetry is a transformation that leaves a pattern unchanged.
